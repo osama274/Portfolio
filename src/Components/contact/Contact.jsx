@@ -21,6 +21,7 @@ const Contact = () => {
         console.log(response);
       })
       .catch((err) => console.log(err));
+      e.target.reset()
   };
 
   return (
@@ -68,8 +69,8 @@ const Contact = () => {
         </div>
         {/* END OF CONTACT OPTIONS */}
         <form ref={form} onSubmit={sendEmail}>
-          <input type="text" name="" placeholder="Your Full Name" />
-          <input type="text" placeholder="Your Email" />
+          <input type="text" name="name" placeholder="Your Full Name" />
+          <input type="text" placeholder="Your Email" name="email"/>
           <textarea
             name="message"
             rows="7"
