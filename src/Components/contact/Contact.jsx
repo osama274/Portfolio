@@ -36,7 +36,7 @@ const Contact = () => {
             <h4>Messenger</h4>
             <h5>Osama Alhaj Abdullah</h5>
             <a
-              href="https://www.facebook.com/profile.php?id=100011019970866"
+              href="https://www.messenger.com/t/1001847139929871"
               rel="noreferrer"
               target="_blank"
             >
