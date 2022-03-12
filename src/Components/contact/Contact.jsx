@@ -10,9 +10,19 @@ const Contact = () => {
 
   const sendEmail = (e) => {
     e.preventDefault();
-    emailjs.sendForm("service_ohhe5ri","template_vj65zdg", form.current, "user_f1Pk0qpUx4klJRbZb")
-     e.target.reset()
+    emailjs
+      .sendForm(
+        "service_ohhe5ri",
+        "template_vj65zdg",
+        e.target,
+        "user_f1Pk0qpUx4klJRbZb"
+      )
+      .then((response) => {
+        console.log(response);
+      })
+      .catch((err) => console.log(err));
   };
+
   return (
     <section id="contact">
       <h5>Get In Touch</h5>
