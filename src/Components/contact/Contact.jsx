@@ -47,7 +47,7 @@ const Contact = () => {
             <h4>Messenger</h4>
             <h5>Osama Alhaj Abdullah</h5>
             <a
-              href="https://m.me/profile.php?id=100011019970866"
+              href="https://m.me/100011019970866"
               rel="noreferrer"
               target="_blank"
             >
