@@ -14,7 +14,7 @@ const Portfolio = () => {
       image: IMG1,
       title: "Online Shop Plants",
       github: "https://github.com/dci-final-crew/online-shop-client-redesign",
-      demo: "https://online-shop-plants.netlify.app/",
+      demo: "https://online-shop-client.netlify.app",
     },
     {
       id: 2,
