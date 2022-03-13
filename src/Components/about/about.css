@@ -17,10 +17,19 @@
   place-items: center;
 }
 .about__me-image {
+  height: 100%;
+  width: 100%;
+  padding: 20px;
   border-radius: 2rem;
   overflow: hidden;
   transform: rotate(10deg);
   transition: var(--transition);
+  background-image: url(../../assets/me.JPG);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-position: center;
+  
   
 }
 .about__me-image:hover {

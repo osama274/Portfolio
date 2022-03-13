@@ -1,5 +1,5 @@
 import React from "react";
-  import Me from "../../assets/me4.jpg";
+  // import Me from "../../assets/me4.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -13,7 +13,7 @@ const About = () => {
       <div className=" container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={Me} alt="About__Image" />
+            {/* <img src={Me} alt="About__Image" /> */}
           </div>
         </div>
       
