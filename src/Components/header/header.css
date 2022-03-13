@@ -8,6 +8,7 @@
   text-align: center;
   height: 100%;
   position: relative;
+  padding-top: 4rem;
 }
 .header__socials {
   display: flex;
