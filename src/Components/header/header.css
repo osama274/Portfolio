@@ -43,6 +43,9 @@
   overflow: hidden;
   padding: 5rem 0.5rem 0.5rem 0.5rem;
 }
+.me >img{
+  opacity: 0.8;
+}
 .scroll__down {
   position: absolute;
   right: 2.3rem;

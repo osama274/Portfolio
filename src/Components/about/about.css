@@ -13,8 +13,8 @@
     var(--color-primary),
     transparent
   );
-  display: grid;
-  place-items: center;
+  /* display: grid;
+  place-items: center; */
 }
 .about__me-image {
   height: 100%;
@@ -24,11 +24,12 @@
   overflow: hidden;
   transform: rotate(10deg);
   transition: var(--transition);
-  background-image: url(../../assets/me.JPG);
-  background-size: 100% 100%;
+  background-image: url(../../assets/osama.jpg);
+   background-size:100% ; 
   background-repeat: no-repeat;
-  object-fit: cover;
-  background-position: center;
+  /* object-fit: cover; */
+   background-position: center;
+   opacity: 0.8; 
   
   
 }
