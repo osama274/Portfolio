@@ -20,8 +20,8 @@ const Portfolio = () => {
       id: 2,
       image: IMG2,
       title: "Calculator",
-      github: "https://github.com/dci-final-crew/online-shop-client-redesign",
-      demo: "https://online-shop-plants.netlify.app/",
+      github: "https://github.com/osama274/Calculetor",
+      demo: "https://calculator-calculator.netlify.app",
     },
     {
       id: 3,
