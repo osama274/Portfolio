@@ -26,9 +26,9 @@ const Portfolio = () => {
     {
       id: 3,
       image: IMG3,
-      title: "This is a portfolio title",
-      github: "https://github.com",
-      demo: "https://app.netlify.com/teams/alhaj2904/overview",
+      title: "Task Management App",
+      github: "https://github.com/osama274/Task-Management-App",
+      demo: "https://task-mangement-app.netlify.app",
     },
     {
       id: 4,
