@@ -33,7 +33,7 @@ const Portfolio = () => {
     {
       id: 4,
       image: IMG4,
-      title: "This is a portfolio title",
+      title: "Page-Search-Display",
       github: "https://github.com/osama274/react-items-page-search-and-display-master",
       demo: "https://page-search-and-display.netlify.app/",
     },
