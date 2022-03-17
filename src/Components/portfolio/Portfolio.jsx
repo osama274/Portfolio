@@ -34,8 +34,8 @@ const Portfolio = () => {
       id: 4,
       image: IMG4,
       title: "This is a portfolio title",
-      github: "https://github.com",
-      demo: "https://app.netlify.com/teams/alhaj2904/overview",
+      github: "https://github.com/osama274/react-items-page-search-and-display-master",
+      demo: "https://page-search-and-display.netlify.app/",
     },
     {
       id: 5,
