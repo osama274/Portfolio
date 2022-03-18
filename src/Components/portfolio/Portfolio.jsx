@@ -13,7 +13,7 @@ const Portfolio = () => {
       id: 1,
       image: IMG1,
       title: "Online Shop Plants",
-      github: "https://github.com/dci-final-crew/online-shop-client-redesign",
+      github: "https://github.com/osama274/online-shop-client-os",
       demo: "https://floral-garden-os.netlify.app",
     },
     {
